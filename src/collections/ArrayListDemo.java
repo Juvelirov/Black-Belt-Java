@@ -14,5 +14,6 @@ public class ArrayListDemo {
         ArrayList<String> listHasStartSize = new ArrayList<>(30); // initial capacity 30, увеличили скорость добавления
         List<String> myList = new ArrayList<>(); // обрезаем возможности до List. Делаем так, если в будущем поменять ArrayList на другую колл impl List.
         ArrayList<String> namesList = new ArrayList<>(list); // создаём namesList на основе list (элементы копируются). Это НОВЫЙ объект.
+
     }
 }
