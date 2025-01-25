@@ -22,5 +22,6 @@ public class ArrayListMethods {
         System.out.println(list.isEmpty()); // есть ли элементы в массиве?
         System.out.println(list2.contains("!!!@")); // есть ли строка в листе?
 
+
     }
 }
