@@ -1,6 +1,6 @@
-package comporation.comparator;
+package syntax_pro.comporation.comparator;
 
-import comporation.People;
+import syntax_pro.comporation.People;
 
 import java.util.Comparator;
 

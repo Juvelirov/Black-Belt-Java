@@ -1,4 +1,4 @@
-package collections;
+package syntax_pro.collections;
 
 import java.util.ArrayList;
 import java.util.List;

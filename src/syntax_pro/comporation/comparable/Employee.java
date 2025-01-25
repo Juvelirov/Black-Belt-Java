@@ -1,7 +1,7 @@
-package comporation.comparable;
+package syntax_pro.comporation.comparable;
 
 
-import comporation.People;
+import syntax_pro.comporation.People;
 
 import java.util.ArrayList;
 import java.util.Collections;

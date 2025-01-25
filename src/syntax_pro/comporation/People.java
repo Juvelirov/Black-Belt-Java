@@ -6,7 +6,7 @@
  * Vestibulum commodo. Ut rhoncus gravida arcu.
  */
 
-package comporation;
+package syntax_pro.comporation;
 
 public class People implements Comparable<People> {
     int age;

@@ -1,4 +1,4 @@
-package generics;
+package syntax_pro.generics;
 
 import java.util.ArrayList;
 import java.util.List;
