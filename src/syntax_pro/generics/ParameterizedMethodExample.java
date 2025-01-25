@@ -6,7 +6,7 @@
  * Vestibulum commodo. Ut rhoncus gravida arcu.
  */
 
-package generics;
+package syntax_pro.generics;
 
 import java.util.ArrayList;
 
