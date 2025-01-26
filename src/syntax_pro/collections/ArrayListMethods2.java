@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
-public class OtherMethods {
+public class ArrayListMethods2 {
     public static void main(String[] args) {
         StringBuilder sb1 = new StringBuilder("A");
         StringBuilder sb2 = new StringBuilder("B");
