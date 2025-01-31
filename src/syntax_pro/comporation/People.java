@@ -25,14 +25,14 @@ public class People implements Comparable<People> {
 
     @Override
     public String toString() {
-        return name + " " + surname;
+        return name + " " + surname + " id: " + id;
     }
 
     // Возвращает целое число
     @Override
     public int compareTo(People anotherEmp) {
         if (this.id == anotherEmp.id){
-            return 0;
+            return this.name.compareTo(anotherEmp.name);
         } else if (this.id < anotherEmp.id){
             return -1;
         }
